@@ -6,9 +6,10 @@ Wersja: v1.0
 Data:   03.04.2020 r.  
 
 # Informacje o studencie
-Imię i nazwisko studenta:   Imię Nazwisko  
-Numer albumu:               00000  
-Grupa studencka:            WELE18X1N1
+Imię i nazwisko studenta:   Imię Bartlomiej 
+Nazwisko  Falba
+Numer albumu:               72691
+Grupa studencka: WELE18EX1N1
 
 # Pytania do zadań z instrukcji
 ## Zadanie 2-2-1a:
